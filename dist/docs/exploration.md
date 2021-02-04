@@ -1,5 +1,5 @@
 # Exploration
-Keep the refined problem statement in mind when exploring solutions: ${problemStatement}
+Keep the refined problem statement in mind when exploring solutions: In which way might we enable ${user} to solve Main need 1 & Main need 2, to ${userGoal} & ${businessGoal}?
   
 ---
 ## Ideation

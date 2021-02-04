@@ -32,7 +32,7 @@ Identify your users, who are end users, business stakeholders, subject matter ex
   
 ---
 ### Sorted needs
-| ${mainNeed1} | ${mainNeed2} |
+| Main need 1 | Main need 2 |
 | --- | --- |
 | Subneed 1.1 | Subneed 2.1 |
 | Individual need 1.1.1 | Individual need 2.1.1 |
@@ -42,7 +42,7 @@ Identify your users, who are end users, business stakeholders, subject matter ex
   
 ---
 ### Refined problem statement  
-${problemStatement}
+In which way might we enable ${user} to solve Main need 1 & Main need 2, to ${userGoal} & ${businessGoal}?
   
 ---
 ## Measurements
