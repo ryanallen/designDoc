@@ -44,3 +44,6 @@ ${problemStatement}
 | Name | Current state | Desired state |
 | --- | --- | --- |
 |  |  |  |
+
+---
+Next is [exploration](/dist/docs/exploration.md)

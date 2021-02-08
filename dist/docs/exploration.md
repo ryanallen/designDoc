@@ -73,3 +73,6 @@ How will the insights be used from this study?
 | Version | KPI 1 | KPI 2 |
 | --- | --- | --- |
 |  |  |  |
+
+---
+Next is [go-to-market](/dist/docs/goToMarket.md)

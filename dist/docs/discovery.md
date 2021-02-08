@@ -50,3 +50,6 @@ In which way might we enable ${user} to solve Main need 1 & Main need 2, to ${us
 | Name | Current state | Desired state |
 | --- | --- | --- |
 |  |  |  |
+
+---
+Next is [exploration](/dist/docs/exploration.md)

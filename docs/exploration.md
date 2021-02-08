@@ -69,3 +69,6 @@ How will the insights be used from this study?
 ---
 ### User testing
 ${userTesting}
+
+---
+Next is [go-to-market](/dist/docs/goToMarket.md)
