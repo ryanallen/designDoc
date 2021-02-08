@@ -4,7 +4,7 @@
 ---
 ## Ideation
 Keep the refined problem statement in mind when exploring solutions:  
-In which way might we enable ${user} to solve Main need 1 & Main need 2, to ${userGoal} & ${businessGoal}?
+In which way might we enable ${user} to solve ${mainNeed1} & ${mainNeed2}, to ${userGoal} & ${businessGoal}?
 
 ---
 ### Hypotheses

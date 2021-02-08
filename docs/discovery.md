@@ -17,7 +17,7 @@ ${tickets}
   
 ---
 ## Users & needs
-Identify your users, who are end users, business stakeholders, subject matter experts, and anyone else with that needs solutions to solve their problems. Use the template below or this [version in sheets](https://docs.google.com/spreadsheets/d/11jehH_a7HNAwWOaf_5W3wolRz1lOSHGhhyUC2JtG8fc/edit?usp=sharing) to track and prioritize them and their needs.
+Identify end users, business stakeholders, and subject matter experts and their needs. Use the tables below or this [version in google sheets](https://docs.google.com/spreadsheets/d/11jehH_a7HNAwWOaf_5W3wolRz1lOSHGhhyUC2JtG8fc/edit?usp=sharing) to track and prioritize them.
   
 ---
 ### Users raw & encoded needs

@@ -1,8 +1,12 @@
 # Design doc
-[Discovery](/dist/docs/discovery.md), [exploration](/dist/docs/exploration.md), and [go to market](/dist/docs/goToMarket.md) docs.
+Design Doc | [Discovery](/dist/docs/discovery.md) | [Exploration](/dist/docs/exploration.md) | [Go to market](/dist/docs/goToMarket.md)
 
 ---
 
+## Team
+${team}
+
+---
 ## Problem statement
 ${problemStatement}
 

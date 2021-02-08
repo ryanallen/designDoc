@@ -23,7 +23,7 @@ Start every project with a kickoff meeting that aligns users and problems. Defin
   
 ---
 ## Users & needs
-Identify your users, who are end users, business stakeholders, subject matter experts, and anyone else with that needs solutions to solve their problems. Use the template below or this [version in sheets](https://docs.google.com/spreadsheets/d/11jehH_a7HNAwWOaf_5W3wolRz1lOSHGhhyUC2JtG8fc/edit?usp=sharing) to track and prioritize them and their needs.
+Identify end users, business stakeholders, and subject matter experts and their needs. Use the tables below or this [version in google sheets](https://docs.google.com/spreadsheets/d/11jehH_a7HNAwWOaf_5W3wolRz1lOSHGhhyUC2JtG8fc/edit?usp=sharing) to track and prioritize them.
   
 ---
 ### Users raw & encoded needs
@@ -33,7 +33,7 @@ Identify your users, who are end users, business stakeholders, subject matter ex
   
 ---
 ### Sorted needs
-| Main need 1 | Main need 2 |
+| ${mainNeed1} | ${mainNeed2} |
 | --- | --- |
 | Subneed 1.1 | Subneed 2.1 |
 | Individual need 1.1.1 | Individual need 2.1.1 |
@@ -43,7 +43,7 @@ Identify your users, who are end users, business stakeholders, subject matter ex
   
 ---
 ### Refined problem statement  
-In which way might we enable ${user} to solve Main need 1 & Main need 2, to ${userGoal} & ${businessGoal}?
+In which way might we enable ${user} to solve ${mainNeed1} & ${mainNeed2}, to ${userGoal} & ${businessGoal}?
   
 ---
 ## Measurements
