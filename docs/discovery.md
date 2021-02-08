@@ -1,24 +1,19 @@
 # Discovery
-Start every project with a kickoff meeting that aligns users and problems. 
+[Design Doc](/dist/docs/designDoc.md) | Discovery | [Exploration](/dist/docs/exploration.md) | [Go to market](/dist/docs/goToMarket.md)
   
 ---
 ## Team
-Define who will be working on this problem and what will they be doing.
-| Name | Responsibility |
-| --- | --- |
-|  |  |
+Start every project with a kickoff meeting that aligns users and problems. Define who will be working on this problem and what will they be doing.  
+
+${team}
   
 ---
 ## Roadmap  
-| Project name | Due date | Status | Person assigned |
-| --- | --- | --- | --- |
-|  |  |  |  |
+${roadmap}
   
 ---
 ## Tickets
-| ID | Status |
-| --- | --- |
-|  |  |
+${tickets}
   
 ---
 ## Users & needs

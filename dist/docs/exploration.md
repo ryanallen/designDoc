@@ -1,9 +1,11 @@
 # Exploration
-Keep the refined problem statement in mind when exploring solutions: In which way might we enable ${user} to solve Main need 1 & Main need 2, to ${userGoal} & ${businessGoal}?
+[Design Doc](/dist/docs/designDoc.md) | [Discovery](/dist/docs/discovery.md) | Exploration | [Go to market](/dist/docs/goToMarket.md)
   
 ---
 ## Ideation
-  
+Keep the refined problem statement in mind when exploring solutions:  
+In which way might we enable ${user} to solve Main need 1 & Main need 2, to ${userGoal} & ${businessGoal}?
+
 ---
 ### Hypotheses
 Get help with a [hypothesis framework](https://docs.google.com/forms/d/1YJZIdEaZPN2K59O-gOHGNW2kXPRtLsPwiM32BSd0pHI/edit?usp=sharing) help.
@@ -68,7 +70,6 @@ How will the insights be used from this study?
 
 ---
 ### User testing
-
 | Version | KPI 1 | KPI 2 |
 | --- | --- | --- |
 |  |  |  |

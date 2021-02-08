@@ -1,16 +1,16 @@
 # Exploration
-Keep the refined problem statement in mind when exploring solutions: ${problemStatement}
+[Design Doc](/dist/docs/designDoc.md) | [Discovery](/dist/docs/discovery.md) | Exploration | [Go to market](/dist/docs/goToMarket.md)
   
 ---
 ## Ideation
-  
+Keep the refined problem statement in mind when exploring solutions:  
+${problemStatement}
+
 ---
 ### Hypotheses
 Get help with a [hypothesis framework](https://docs.google.com/forms/d/1YJZIdEaZPN2K59O-gOHGNW2kXPRtLsPwiM32BSd0pHI/edit?usp=sharing) help.
   
-| If | then | due to |
-| --- | --- | --- |
-| ${hypothVariable} | ${predictedResult} | ${hypothRationale} |
+${hypotheses}
   
 ---
 ### Artifacts
@@ -68,7 +68,4 @@ How will the insights be used from this study?
 
 ---
 ### User testing
-
-| Version | KPI 1 | KPI 2 |
-| --- | --- | --- |
-|  |  |  |
+${userTesting}

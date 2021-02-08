@@ -1,4 +1,5 @@
 # Go to market
+[Design Doc](/dist/docs/designDoc.md) | [Discovery](/dist/docs/discovery.md) | [Exploration](/dist/docs/exploration.md) | Go to market
 
 ---
 ## Deliverables
@@ -34,9 +35,15 @@
 ## Next version
 
 ---
+### Learnings
+${learnings}
+
+---
 ### Recommendations
+${recommendations}
 
 ---
 ### Links to new docs
+${nextVersion}
 
 ---

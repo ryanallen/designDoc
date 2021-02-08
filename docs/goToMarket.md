@@ -1,13 +1,12 @@
 # Go to market
+[Design Doc](/dist/docs/designDoc.md) | [Discovery](/dist/docs/discovery.md) | [Exploration](/dist/docs/exploration.md) | Go to market
 
 ---
 ## Deliverables
 
 ---
 ### Final solution for dev
-| Date | Creator | Artifact |
-| --- | --- | --- |
-|  |  |  |
+${finalSolutions}
 
 ---
 ### Production roadmap  
@@ -26,17 +25,21 @@
 
 ---
 ### Production testing
-| Version | KPI 1 | KPI 2 |
-| --- | --- | --- |
-|  |  |  |
+${productionTesting}
 
 ---
 ## Next version
 
 ---
+### Learnings
+${learnings}
+
+---
 ### Recommendations
+${recommendations}
 
 ---
 ### Links to new docs
+${nextVersion}
 
 ---
