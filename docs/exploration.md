@@ -14,7 +14,11 @@ Get help with a [hypothesis framework](https://docs.google.com/forms/d/1YJZIdEaZ
   
 ---
 ### Artifacts
-Sketches, drawings, digital wires, flow charts, UI, animations and more.
+Sketches, drawings, digital wires, flow charts, UI, animations and more.  
+
+| Date | Creator | Artifact |
+| --- | --- | --- |
+|  |  |  |
   
 ---
 #### Solution brainstorm
@@ -45,3 +49,26 @@ Google [sheets version](https://docs.google.com/spreadsheets/d/1QCye8bQ4Nvg6S0Vl
   
 ---
 ## Validation
+
+---
+### Test Plan
+
+---
+**General**  
+What business challenges are being addressed?  
+What questions are being answered?  
+What needs to be understood from this study?  
+
+**Users**  
+Who might be using this part of the experience, service, app, or site?  
+
+**Goals**
+What specific questions need answers?  
+How will the insights be used from this study?  
+
+---
+### User testing
+
+| Version | KPI 1 | KPI 2 |
+| --- | --- | --- |
+|  |  |  |
