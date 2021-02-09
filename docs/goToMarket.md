@@ -5,7 +5,7 @@
 ## Deliverables
 
 ---
-### Final solution for dev
+### Designs for production
 ${finalSolutions}
 
 ---

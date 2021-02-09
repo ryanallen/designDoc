@@ -8,7 +8,7 @@ In which way might we enable ${user} to solve ${mainNeed1} & ${mainNeed2}, to ${
 
 ---
 ### Hypotheses
-Get help with a [hypothesis framework](https://docs.google.com/forms/d/1YJZIdEaZPN2K59O-gOHGNW2kXPRtLsPwiM32BSd0pHI/edit?usp=sharing) help.
+Get help with a [hypothesis framework](https://docs.google.com/forms/d/1YJZIdEaZPN2K59O-gOHGNW2kXPRtLsPwiM32BSd0pHI/edit?usp=sharing).
   
 | If | then | due to |
 | --- | --- | --- |
@@ -16,7 +16,7 @@ Get help with a [hypothesis framework](https://docs.google.com/forms/d/1YJZIdEaZ
   
 ---
 ### Artifacts
-Sketches, drawings, digital wires, flow charts, UI, animations and more.  
+Drawings, surveys, flow charts, prototypes. UI, code repos, and more.  
 
 | Date | Creator | Artifact |
 | --- | --- | --- |
@@ -24,7 +24,7 @@ Sketches, drawings, digital wires, flow charts, UI, animations and more.
   
 ---
 #### Solution brainstorm
-Google [sheets version](https://docs.google.com/spreadsheets/d/1QCye8bQ4Nvg6S0Vlzem7flVsTL73BDOMhGFVaLgBE98/edit?usp=sharing).
+For when multiple ideas to solve the problem statement are needed. Use the table below or this [google sheet](https://docs.google.com/spreadsheets/d/1QCye8bQ4Nvg6S0Vlzem7flVsTL73BDOMhGFVaLgBE98/edit?usp=sharing).
 
 | Person | Concept |
 | --- | --- |
@@ -36,7 +36,7 @@ Google [sheets version](https://docs.google.com/spreadsheets/d/1QCye8bQ4Nvg6S0Vl
   
 ---
 #### Concept selection matrix
-Google [sheets version](https://docs.google.com/spreadsheets/d/1QCye8bQ4Nvg6S0Vlzem7flVsTL73BDOMhGFVaLgBE98/edit?usp=sharing)
+For ranking solutions against the right problems. Use the table below or this [google sheet](https://docs.google.com/spreadsheets/d/1QCye8bQ4Nvg6S0Vlzem7flVsTL73BDOMhGFVaLgBE98/edit?usp=sharing).
 | Needs | Grouped concept 1 | Grouped concept 2 |
 | --- | --- | --- |
 | Need 1.1 (main or sub or indv) |  |  |
@@ -54,8 +54,8 @@ Google [sheets version](https://docs.google.com/spreadsheets/d/1QCye8bQ4Nvg6S0Vl
 
 ---
 ### Test Plan
+Use the following questions to understand what you need to learn from your user test.  
 
----
 **General**  
 What business challenges are being addressed?  
 What questions are being answered?  
@@ -69,7 +69,7 @@ What specific questions need answers?
 How will the insights be used from this study?  
 
 ---
-### User testing
+### User testing results
 | Version | KPI 1 | KPI 2 |
 | --- | --- | --- |
 |  |  |  |
