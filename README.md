@@ -20,3 +20,7 @@ Make a copy of this design doc repository by clicking the fork button in the top
 2. Then [exploration](/dist/docs/exploration.md),  
 3. Then [go to market](/dist/docs/goToMarket.md),  
 4. Finally share out the [summarized learnings](/dist/docs/designDoc.md)  
+
+
+## Help & feedback
+Questionos / comments? Reach out to me on [twitter](https://twitter.com/ryanallen_com) or [intiate a pull request](https://github.com/ryanallen/designDoc/pulls).
