@@ -12,7 +12,7 @@ or the [distribution docs](https://github.com/ryanallen/designDoc/tree/main/dist
 
 ### Then get the design docs
 
-Make a copy of this design doc repository by clicking the fork button in the top right of the page, or manually save the files you need from this repo. Don't forget to hit that ⭐ button <3.
+Make a copy of this design doc repository by clicking the fork button in the top right of the page, or manually save the files you need from this repo (right click the links below and 'save as'). Don't forget to hit that ⭐ button <3.
 
 ### Finally, design!
 
