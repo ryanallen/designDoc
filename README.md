@@ -23,4 +23,4 @@ Make a copy of this design doc repository by clicking the fork button in the top
 
 
 ## Help & feedback
-Questionos / comments? Reach out to me on [twitter](https://twitter.com/ryanallen_com) or [intiate a pull request](https://github.com/ryanallen/designDoc/pulls).
+Questions / comments? Reach out to me on [twitter](https://twitter.com/ryanallen_com) or [intiate a pull request](https://github.com/ryanallen/designDoc/pulls).
