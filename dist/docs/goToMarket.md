@@ -23,9 +23,6 @@
 ### Quality assurance
 
 ---
-#### QA Tickets
-
----
 ### Production testing
 | Version | KPI 1 | KPI 2 |
 | --- | --- | --- |

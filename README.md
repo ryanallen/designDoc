@@ -1,8 +1,20 @@
 # Design Doc
 
-An open and repeatable design document and design process template that enables teams to prioritize learnings to produce customer-centered solutions from napkin to scale. It enables anyone to DESIGN, or Discover, Explore, See what works, Iterate, Go-to-market and plan the Next steps for a product.
+A product design process that enables cross-functional teams to take an idea from napkin to scale by prioritizing learnings to produce customer-centered solutions.
 
-[Start with discovery](/dist/docs/discovery.md)  
-[Then exploration](/dist/docs/exploration.md)  
-[Finally go to market](/dist/docs/goToMarket.md)  
-[Summarize it all up](/dist/docs/designDoc.md)  
+## Usage
+
+### First choose wisely
+
+Decide whether you want to work in the [source docs](https://github.com/ryanallen/designDoc/tree/main/docs), which let you use [node](https://nodejs.org/en/), [npm](https://www.npmjs.com/), and [docbits](https://github.com/ryanallen/docbits) to keep your design doc [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) and maintainable, or the [distribution docs](https://github.com/ryanallen/designDoc/tree/main/dist/docs) which are built from the source docs and don't require a [software build process](https://en.wikipedia.org/wiki/Software_build).
+
+### Then get the design docs
+
+Make a copy of this design doc repository by clicking the fork button in the top right, or manually download the files you need from the repo. Don't forget to hit that ⭐ button <3.
+
+### Finally, design!
+
+Start with [discovery](/dist/docs/discovery.md),  
+then [exploration](/dist/docs/exploration.md),  
+then [go to market](/dist/docs/goToMarket.md),  
+and finally share out the [summarized learnings](/dist/docs/designDoc.md).  

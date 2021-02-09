@@ -60,7 +60,7 @@ What questions are being answered?
 What needs to be understood from this study?  
 
 **Users**  
-Who might be using this part of the experience, service, app, or site?  
+Who might be using this part of the product, experience, service, app, site, etc?  
 
 **Goals**
 What specific questions need answers?  

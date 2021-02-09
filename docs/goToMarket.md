@@ -21,9 +21,6 @@ ${finalSolutions}
 ### Quality assurance
 
 ---
-#### QA Tickets
-
----
 ### Production testing
 ${productionTesting}
 
