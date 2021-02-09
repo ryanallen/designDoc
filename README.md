@@ -1,12 +1,14 @@
 # Design Doc
 
-A product design process that enables cross-functional teams to take an idea from napkin to scale by prioritizing learnings to produce customer-centered solutions.
+A product design process in github markdown that enables cross-functional teams to take an idea from napkin to scale by prioritizing learnings to produce customer-centered solutions.
 
 ## Usage
 
-### First choose wisely
+### First choose a workflow
 
-Decide whether you want to work in the [source docs](https://github.com/ryanallen/designDoc/tree/main/docs), which let you use [node](https://nodejs.org/en/), [npm](https://www.npmjs.com/), and [docbits](https://github.com/ryanallen/docbits) to keep your design doc [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) and maintainable, or the [distribution docs](https://github.com/ryanallen/designDoc/tree/main/dist/docs) which are built from the source docs and don't require a [software build process](https://en.wikipedia.org/wiki/Software_build).
+Decide whether you want to work in the [source files](https://github.com/ryanallen/designDoc/tree/main/docs), which let you use [node](https://nodejs.org/en/), [npm](https://www.npmjs.com/), and [docbits](https://github.com/ryanallen/docbits) to keep your design doc [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) and maintainable...  
+
+or the [distribution docs](https://github.com/ryanallen/designDoc/tree/main/dist/docs) which are built from the source docs and don't require a [software build process](https://en.wikipedia.org/wiki/Software_build).
 
 ### Then get the design docs
 
