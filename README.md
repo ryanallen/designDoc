@@ -1,6 +1,6 @@
 # Design Doc
 
-A product design process in github markdown that enables cross-functional teams to take an idea from napkin to scale by prioritizing learnings to produce customer-centered solutions.
+A lean product design process in markdown that enables cross-functional teams to take an idea from napkin to scale by prioritizing learnings to produce customer-centered solutions.
 
 ## Usage
 
