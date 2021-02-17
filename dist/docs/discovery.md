@@ -2,9 +2,11 @@
 [Design Doc](/dist/docs/designDoc.md) | Discovery | [Exploration](/dist/docs/exploration.md) | [Go to market](/dist/docs/goToMarket.md)
   
 ---
+## Project tracking
 Start every project with a kickoff meeting that includes stakeholders and cross-functional team leads to align the different users, problems, timelines, and expectations.
 
-## Team
+---
+### Team
 Define who will be working on this project and what will they be doing.  
 
 | Name | Responsibility |
@@ -12,19 +14,25 @@ Define who will be working on this project and what will they be doing.
 |  |  |
   
 ---
-## Roadmap  
+### Roadmap  
 | Project name | Due date | Ticket | Status | Person assigned |
 | --- | --- | --- | --- | --- |
 |  |  |  |  |  |
   
 ---
-## Tickets
+### Tickets
 | ID | Person assigned | Status |
 | --- | --- | --- |
 |  |  |  |
   
 ---
-## Users & needs
+### Measurements
+| Name | Current state | Desired state |
+| --- | --- | --- |
+|  |  |  |
+
+---
+## Users & needs/problems
 Identify and survey end users, business stakeholders, and subject matter experts to get their needs. Use the tables below or this [version in google sheets](https://docs.google.com/spreadsheets/d/11jehH_a7HNAwWOaf_5W3wolRz1lOSHGhhyUC2JtG8fc/edit?usp=sharing) to track and prioritize them.
   
 ---
@@ -48,11 +56,5 @@ Scope your users' needs/problems [like this](https://www.uxpin.com/studio/blog/f
 ### Refined problem statement  
 In which way might we enable ${user} to solve ${mainNeed1} & ${mainNeed2}, to ${userGoal} & ${businessGoal}?
   
----
-## Measurements
-| Name | Current state | Desired state |
-| --- | --- | --- |
-|  |  |  |
-
 ---
 Next is [exploration](/dist/docs/exploration.md)
