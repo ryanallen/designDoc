@@ -23,6 +23,7 @@ Identify and survey end users, business stakeholders, and subject matter experts
   
 ---
 ### Users raw & encoded needs
+Scope your users' needs/problems [like this](https://www.uxpin.com/studio/blog/falling-wrong-design-problem/) to find the root instead of solving symptoms of a deeper problem.
 | User | Time/date | Verbatim | Encoded needs like [1](https://www.dropbox.com/s/ici0tedx4cje718/encodingRule1.png), [2](https://www.dropbox.com/s/2bo8ch7yvukqico/encodingRule2.png), & [3](https://www.dropbox.com/s/fn726cp2gjrsy91/encodingRule3%2B4.png) |
 | --- | --- | --- | --- |
 |  |  |  |  |
