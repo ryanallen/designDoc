@@ -38,10 +38,10 @@ Scope your users' needs/problems [like this](https://www.uxpin.com/studio/blog/f
 ### Sorted needs
 | ${mainNeed1} | ${mainNeed2} |
 | --- | --- |
-| Subneed 1.1 | Subneed 2.1 |
+| **Subneed 1.1** | **Subneed 2.1** |
 | Individual need 1.1.1 | Individual need 2.1.1 |
 | Individual need 1.1.2 | Individual need 2.1.2 |
-| Subneed 1.2 | Subneed 2.2 |
+| **Subneed 1.2** | **Subneed 2.2** |
 | Individual need 1.2.1 | Individual need 2.2.1 |
   
 ---
