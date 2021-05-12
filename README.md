@@ -10,11 +10,13 @@ Decide whether you want to work in the [source files](https://github.com/ryanall
 
 or the [distribution docs](https://github.com/ryanallen/designDoc/tree/main/dist/docs) which are built from the source files and don't require a [software build process](https://en.wikipedia.org/wiki/Software_build).
 
-### Then get the design docs
+### Next, use this template
 
-Make a copy of this design doc repository by clicking the fork button in the top right of the page, or manually save the files you need from this repo (right click the links below and 'save link as'). Don't forget to hit that ⭐ button <3.
+[CLICK TO USE THIS TEMPLATE](https://github.com/ryanallen/designDoc/generate) which will make a copy of this design doc repository, or manually save the files you need from this repo (right click the links below and 'save link as').  
 
-### Finally, design!
+Don't forget to hit that ⭐ button <3.
+
+### Finally, document your designs!
 
 1. Start with [discovery](/dist/docs/discovery.md),  
 2. Then [exploration](/dist/docs/exploration.md),  
