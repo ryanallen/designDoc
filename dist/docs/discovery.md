@@ -27,6 +27,11 @@ Define who will be working on this project and what will they be doing.
 |  |  |  |
 
 ---
+
+## Audits  
+Review the current state as well as competitors’ current states to inform the future state. Keep track Artifacts in the [Exploration](/dist/docs/exploration.md) --> Artifacts table below.  
+
+---
 ## Users + Needs
 Identify and survey end users, business stakeholders, and subject matter experts to get their problems which will be refined into needs. Use the tables below or this [version in google sheets](https://docs.google.com/spreadsheets/d/11jehH_a7HNAwWOaf_5W3wolRz1lOSHGhhyUC2JtG8fc/edit?usp=sharing) to track and prioritize them.
   
