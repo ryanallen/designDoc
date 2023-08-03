@@ -27,8 +27,8 @@ Define who will be working on this project and what will they be doing.
 |  |  |  |
 
 ---
-## Users + Problems
-Identify and survey end users, business stakeholders, and subject matter experts to get their needs. Use the tables below or this [version in google sheets](https://docs.google.com/spreadsheets/d/11jehH_a7HNAwWOaf_5W3wolRz1lOSHGhhyUC2JtG8fc/edit?usp=sharing) to track and prioritize them.
+## Users + Needs
+Identify and survey end users, business stakeholders, and subject matter experts to get their problems which will be refined into needs. Use the tables below or this [version in google sheets](https://docs.google.com/spreadsheets/d/11jehH_a7HNAwWOaf_5W3wolRz1lOSHGhhyUC2JtG8fc/edit?usp=sharing) to track and prioritize them.
   
 ---
 ### Users raw & encoded needs
