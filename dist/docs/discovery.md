@@ -3,7 +3,7 @@
   
 ---
 ## Project tracking
-Start every project with a kickoff meeting that includes stakeholders and cross-functional team leads to align the different users, problems, timelines, and expectations.
+Ensure each project begins with a kickoff meeting, wherein stakeholders and cross-functional team leads come together to synchronize the various users, issues, schedules, and anticipated outcomes.
 
 ---
 ### Team
@@ -32,7 +32,7 @@ Define who will be working on this project and what will they be doing.
 |  |  |  |
 
 ---
-## Users & needs/problems
+## Users + Problems
 Identify and survey end users, business stakeholders, and subject matter experts to get their needs. Use the tables below or this [version in google sheets](https://docs.google.com/spreadsheets/d/11jehH_a7HNAwWOaf_5W3wolRz1lOSHGhhyUC2JtG8fc/edit?usp=sharing) to track and prioritize them.
   
 ---
