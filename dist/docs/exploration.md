@@ -15,39 +15,16 @@ Get help with a [hypothesis framework](https://docs.google.com/forms/d/1YJZIdEaZ
 | ${hypothVariable} | ${predictedResult} | ${hypothRationale} |
   
 ---
+## Collaboration
+Quickly identify the right problem and solve it with the right people in a [Lightning Design Jam](https://www.invisionapp.com/inside-design/lightning-design-jams/). At the end of the design jam using an Impact / Effort ranking system is very helpful. Here is another ranking system should you need one a bit more in-depth: [Concept Selection Matrix](https://gist.github.com/ryanallen/379da455f2450ee97c1155bb182ba0ac)
+
+---
 ### Artifacts
 Drawings, surveys, flow charts, prototypes. UI, code repos, and more.  
 
 | Date | Creator | Artifact |
 | --- | --- | --- |
 |  |  |  |
-  
----
-#### Solution brainstorm
-For when multiple ideas to solve the problem statement are needed. Use the table below or this [google sheet](https://docs.google.com/spreadsheets/d/1QCye8bQ4Nvg6S0Vlzem7flVsTL73BDOMhGFVaLgBE98/edit?usp=sharing).
-
-| Person | Concept |
-| --- | --- |
-|  |  |
-
-| Grouped concepts |
-| --- |
-|  |
-  
----
-#### Concept selection matrix
-For ranking solutions against the right problems. Use the table below or this [google sheet](https://docs.google.com/spreadsheets/d/1QCye8bQ4Nvg6S0Vlzem7flVsTL73BDOMhGFVaLgBE98/edit?usp=sharing).
-| Needs | Grouped concept 1 | Grouped concept 2 |
-| --- | --- | --- |
-| Need 1.1 (main or sub or indv) |  |  |
-| Need 1.2 |  |  |
-| Need 2.1 (main or sub or indv) |  |  |
-| Need 2.2 |  |  |
-| Cost (difficulty) |  |  |
-| Wow factor |  |  |
-| Elegance & beauty |  |  |
-| Scalability |  |  |
-| Totals|  |  |
   
 ---
 ## Validation
