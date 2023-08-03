@@ -15,17 +15,12 @@ Define who will be working on this project and what will they be doing.
   
 ---
 ### Roadmap  
-| Project name | Due date | Ticket | Status | Person assigned |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-  
----
-### Tickets
-| ID | Person assigned | Status |
+| Project name | Jira ticket link | Due date |
 | --- | --- | --- |
 |  |  |  |
   
 ---
+
 ### Measurements
 | Name | Current state | Desired state |
 | --- | --- | --- |
