@@ -15,7 +15,7 @@ Define who will be working on this project and what will they be doing.
   
 ---
 ### Roadmap  
-| Project name + W ticket link | Due date |
+| Project name + Work ticket link | Due date |
 | --- | --- |
 |  |  |
   
