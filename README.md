@@ -25,4 +25,4 @@ Don't forget to hit that ⭐ button <3.
 
 
 ## Help & feedback
-Questions / comments? Reach out to me on [twitter](https://twitter.com/ryanallen_com) or [intiate a pull request](https://github.com/ryanallen/designDoc/pulls).
+Questions / comments? Reach out to me on [Bsky](https://bsky.app/profile/classicepic.bsky.social) or [intiate a pull request](https://github.com/ryanallen/designDoc/pulls).
