@@ -7,7 +7,7 @@ Ensure each project begins with a kickoff meeting, wherein stakeholders and cros
 
 ---
 ### Team
-Define who will be working on this project and what will they be doing.  
+Define who will be working on this project and what will they be doing. D.A.C.I. = Driver, Approver, Contributor, and Informed  
 
 | Name | Responsibility |
 | --- | --- |
